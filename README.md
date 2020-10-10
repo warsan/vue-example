@@ -1,2 +1,2 @@
 # vue-template
-Created with CodeSandbox
+Создано с помощью CodeSandbox

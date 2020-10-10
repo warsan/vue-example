@@ -1,18 +1,18 @@
 <template>
   <div id="app">
     <img width="25%" src="./assets/logo.png">
-    <HelloWorld msg="Привет, Vue в CodeSandbox!" />
+    <Hello msg="Привет, Vue в CodeSandbox!" />
   </div>
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld";
+import Hello from "./components/Hello";
 
 export default {
   name: "App",
   components: {
-    HelloWorld
-  }
+    Hello
+    }
 };
 </script>
 
@@ -23,6 +23,6 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  margin-top: 40px;
 }
 </style>
