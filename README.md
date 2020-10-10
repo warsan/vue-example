@@ -1,2 +1,2 @@
-# vue-example
+# vue-template
 Created with CodeSandbox
