@@ -23,7 +23,7 @@
     <h3>Основные ссылки</h3>
     <ul>
       <li>
-        <a href="https://vuejs.org" target="_blank" rel="noopener">Основные документы</a>
+        <a href="https://ru.vuejs.org/index.html" target="_blank" rel="noopener">Основные документы</a>
       </li>
       <li>
         <a href="https://forum.vuejs.org" target="_blank" rel="noopener"
@@ -47,12 +47,12 @@
     <h3>Экосистема</h3>
     <ul>
       <li>
-        <a href="https://router.vuejs.org" target="_blank" rel="noopener"
+        <a href="https://router.vuejs.org/ru/" target="_blank" rel="noopener"
           >vue-router</a
         >
       </li>
       <li>
-        <a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a>
+        <a href="https://vuex.vuejs.org/ru/" target="_blank" rel="noopener">vuex</a>
       </li>
       <li>
         <a
@@ -63,7 +63,7 @@
         >
       </li>
       <li>
-        <a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener"
+        <a href="https://vue-loader.vuejs.org/ru/" target="_blank" rel="noopener"
           >vue-loader</a
         >
       </li>
