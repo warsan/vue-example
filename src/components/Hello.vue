@@ -91,7 +91,7 @@ export default {
 <!-- Добавьте атрибут "scoped", чтобы ограничить CSS только этим компонентом -->
 <style scoped>
 h3 {
-  margin: 40px 0 0;
+  margin: 20px 0 0;
 }
 ul {
   list-style-type: none;
