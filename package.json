@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "vue": "^2.5.22",
-    "vue-devtools": "5.1.4"
+    "vue-devtools": "^5.1.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "3.6.0",
