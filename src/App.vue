@@ -4,22 +4,18 @@
     <Hello msg="Привет, Vue в CodeSandbox!" />
     <p>Пример простого кода Vuex, реализующего счётчик:</p>
     <iframe width="600" height="300vmin" 
-    src="//jsfiddle.net/warsand/20bLnus7/embedded/js,html,css,result/dark/" 
-    allowfullscreen="allowfullscreen" 
-    allowpaymentrequest frameborder="0">
+            src="//jsfiddle.net/warsand/20bLnus7/embedded/js,html,css,result/dark/" 
+            allowfullscreen="allowfullscreen" 
+            allowpaymentrequest frameborder="0">
     </iframe>
   </div>
 </template>
 
 <script>
 import Hello from "./components/Hello";
-
-export default {
-  name: "App",
-  components: {
-    Hello
-    }
-};
+export default {name: "App",
+                components: { Hello }
+                };
 </script>
 
 <style>
